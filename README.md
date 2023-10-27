@@ -5,7 +5,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 
 - **Technologies Used**: [Swift]
 - **Description**: [Morning Routine Application]
-- **App Store**: [![App Store](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/2048px-App_Store_%28iOS%29.svg.png)](https://link-to-your-app-on-appstore)
+- **App Store**: [📩 Install](https://apps.apple.com/us/app/digitaltea/id6455226163)
 
 
 ## 📫 Contact Me

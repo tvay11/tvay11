@@ -24,7 +24,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Repo Link**: [https:/github.com/tvay11/budgetplanner](https://github.com/tvay11/budgetplanner)
 
 ### SpareKeys
-- **Technologies Used**: [C++,Qt6
+- **Technologies Used**: C++,Qt6
 - **Description**: password manager for multiple logins on one account
 - **Repo Link**: [https://github.com/tvay11/SpareKeys](https://github.com/tvay11/SpareKeys)
 

@@ -13,7 +13,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Description**: Flight Booking website
 - **Repo Link**: [https://github.com/tvay11/helloworld](https://github.com/tvay11/helloworld)
 
-### Google Map Optimizer
+### PathFinder
 - **Technologies Used**: JavaScript, Java Spring, Google Map API, ChakraUI
 - **Description**: Optimizing Google Path
 - **Repo Link**: [https://github.com/tvay11/GoogleMapOptimizer](https://github.com/tvay11/GoogleMapOptimizer)

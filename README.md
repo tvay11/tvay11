@@ -13,10 +13,10 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Description**: Flight Booking website
 - **Repo Link**: [https://github.com/tvay11/helloworld](https://github.com/tvay11/helloworld)
 
-### PathFinder
+### Pathfinder
 - **Technologies Used**: JavaScript, Java Spring, Google Map API, ChakraUI, React
 - **Description**: Optimizing Google Path
-- **Repo Link**: [https://github.com/tvay11/PathFinder](https://github.com/tvay11/PathFinder)
+- **Repo Link**: [https://github.com/tvay11/Pathfinder](https://github.com/tvay11/Pathfinder)
 
 ### Pixel Puzzle
 - **Technologies Used**: C++,Qt6

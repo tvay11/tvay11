@@ -1,7 +1,7 @@
 ### Hi there 👋
 My Name is Thang Vay. I recently graduated from Saint Louis University with a passion for software engineering. My journey in the tech industry is fueled by my love for solving real-world problems through innovative software solutions. Please feel free to explore my repositories to get a sense of the projects I'm passionate about.
 
-## 📃 Projects
+## Projects
 
 ### DigitalTea
 - **Technologies Used**: Swift, SwiftUI
@@ -14,7 +14,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Repo Link**: [https://github.com/tvay11/helloworld](https://github.com/tvay11/helloworld)
 
 ### PathFinder
-- **Technologies Used**: JavaScript, Java Spring, Google Map API, ChakraUI
+- **Technologies Used**: JavaScript, Java Spring, Google Map API, ChakraUI, React
 - **Description**: Optimizing Google Path
 - **Repo Link**: [https://github.com/tvay11/GoogleMapOptimizer](https://github.com/tvay11/GoogleMapOptimizer)
 

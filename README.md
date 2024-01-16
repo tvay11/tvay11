@@ -16,7 +16,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 ### PathFinder
 - **Technologies Used**: JavaScript, Java Spring, Google Map API, ChakraUI, React
 - **Description**: Optimizing Google Path
-- **Repo Link**: [https://github.com/tvay11/GoogleMapOptimizer](https://github.com/tvay11/GoogleMapOptimizer)
+- **Repo Link**: [https://github.com/tvay11/PathFinder](https://github.com/tvay11/PathFinder)
 
 ### Pixel Puzzle
 - **Technologies Used**: C++,Qt6

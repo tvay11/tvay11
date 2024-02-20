@@ -11,7 +11,7 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Repo Link**: [https://github.com/tvay11/helloworld](https://github.com/tvay11/helloworld)
 
 
-### Hello World
+### Venture
 - **Technologies Used**: JavaScript, ASP .NET CORE, Entity Framework, C#
 - **Description**: virtual stock trading website
 - **Repo Link**: [https://github.com/tvay11/venture](https://github.com/tvay11/venture)

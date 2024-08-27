@@ -41,17 +41,10 @@ My Name is Thang Vay. I recently graduated from Saint Louis University with a pa
 - **Description**: Weather application
 - **Repo Link**: [https://github.com/tvay11/SkyWatch](https://github.com/tvay11/SkyWatch)
 
-
 ### TrafficSTL
 - **Technologies Used**: Python, Google Map API, Excel
 - **Description**: Traffic pattern study
 - **Repo Link**: [https://github.com/tvay11/trafficSTL](https://github.com/tvay11/trafficSTL)
-
-### DigitalTea
-- **Technologies Used**: Swift, SwiftUI
-- **Description**: Morning Routine Application
-- **App Store**: [📩](https://apps.apple.com/us/app/digitaltea/id6455226163)
-
 
 ## Contact Me
 - **LinkedIn**: [Thang Vay](https://www.linkedin.com/in/thangvay/)

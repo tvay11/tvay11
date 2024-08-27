@@ -1,9 +1,8 @@
-## About me
-My Name is Thang Vay. I recently graduated from Saint Louis University with a passion for software engineering. My journey in the tech industry is fueled by my love for solving real-world problems through innovative software solutions. Please feel free to explore my repositories to get a sense of the projects I'm passionate about.
+## About Me
+
+Hi, I'm Thang Vay, a recent graduate of Saint Louis University with a deep passion for software engineering. My journey in the tech industry is driven by a love for solving real-world problems through innovative software solutions. Feel free to explore my repositories to see the projects I'm passionate about. Currently, I'm working on a travel guides website that helps travelers explore new destinations. Check it out: [Travelume](https://www.travelume.com/).
 
 ## Projects
-
-
 
 ### Hello World
 - **Technologies Used**: JavaScript, Node.js, Express, Google Firebase, Material UI, React
